@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 0daf87190b597ab4fb56c6117ddec543
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 89198
+  packageName: Save Game Pro - Gold Update
+  packageVersion: 2.9.7
+  assetPath: Assets/BayatGames/SaveGamePro/Scripts/Utilities/EncryptionUtils.cs
+  uploadId: 500060

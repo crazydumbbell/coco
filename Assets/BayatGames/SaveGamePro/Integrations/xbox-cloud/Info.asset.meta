@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: af1a821671d7fb54f948c04c882ad5e0
+timeCreated: 1528358526
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 89198
+  packageName: Save Game Pro - Gold Update
+  packageVersion: 2.9.7
+  assetPath: Assets/BayatGames/SaveGamePro/Integrations/xbox-cloud/Info.asset
+  uploadId: 500060

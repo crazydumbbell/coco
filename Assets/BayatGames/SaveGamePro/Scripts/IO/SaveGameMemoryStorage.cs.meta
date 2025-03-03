@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: e106cf7144cf374408c1232f11ca597a
+timeCreated: 1528008437
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 89198
+  packageName: Save Game Pro - Gold Update
+  packageVersion: 2.9.7
+  assetPath: Assets/BayatGames/SaveGamePro/Scripts/IO/SaveGameMemoryStorage.cs
+  uploadId: 500060

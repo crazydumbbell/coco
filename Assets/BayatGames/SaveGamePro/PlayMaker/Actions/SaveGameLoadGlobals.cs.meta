@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: faf387fdfd0816148a1d4013030c05a4
+timeCreated: 1515311730
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 89198
+  packageName: Save Game Pro - Gold Update
+  packageVersion: 2.9.7
+  assetPath: Assets/BayatGames/SaveGamePro/PlayMaker/Actions/SaveGameLoadGlobals.cs
+  uploadId: 500060

@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: e33b406fbce2b664b9a7b8c3cc0ff544
+timeCreated: 1509369750
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 89198
+  packageName: Save Game Pro - Gold Update
+  packageVersion: 2.9.7
+  assetPath: Assets/BayatGames/SaveGamePro/Scripts/Serialization/Types/SaveGameType_Sprite.cs
+  uploadId: 500060

@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: a12f93d202c27784eb784e2fdf11c906
+timeCreated: 1509435425
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 89198
+  packageName: Save Game Pro - Gold Update
+  packageVersion: 2.9.7
+  assetPath: Assets/BayatGames/SaveGamePro/Scripts/Serialization/Types/SaveGameType_GradientAlphaKey.cs
+  uploadId: 500060

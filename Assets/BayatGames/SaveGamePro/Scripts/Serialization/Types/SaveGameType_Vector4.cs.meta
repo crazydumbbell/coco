@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: c7ab7308af8c7004bb143e968b5604e6
+timeCreated: 1509368765
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 89198
+  packageName: Save Game Pro - Gold Update
+  packageVersion: 2.9.7
+  assetPath: Assets/BayatGames/SaveGamePro/Scripts/Serialization/Types/SaveGameType_Vector4.cs
+  uploadId: 500060

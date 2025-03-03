@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0bae3a4a91248924e83c61d47fba5eeb
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 89198
+  packageName: Save Game Pro - Gold Update
+  packageVersion: 2.9.7
+  assetPath: Assets/BayatGames/SaveGamePro/Examples/Saving Raw Data/Scenes/Save Raw
+    Data.unity
+  uploadId: 500060

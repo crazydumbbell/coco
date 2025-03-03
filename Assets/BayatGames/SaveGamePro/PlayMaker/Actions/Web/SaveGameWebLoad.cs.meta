@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 014e02563d383d946b20ea8e7bd97ed0
+timeCreated: 1508682893
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 89198
+  packageName: Save Game Pro - Gold Update
+  packageVersion: 2.9.7
+  assetPath: Assets/BayatGames/SaveGamePro/PlayMaker/Actions/Web/SaveGameWebLoad.cs
+  uploadId: 500060

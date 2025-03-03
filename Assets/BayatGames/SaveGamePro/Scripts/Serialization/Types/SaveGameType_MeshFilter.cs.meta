@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 69beac2bab66b184081508b7b48dac67
+timeCreated: 1509369007
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 89198
+  packageName: Save Game Pro - Gold Update
+  packageVersion: 2.9.7
+  assetPath: Assets/BayatGames/SaveGamePro/Scripts/Serialization/Types/SaveGameType_MeshFilter.cs
+  uploadId: 500060

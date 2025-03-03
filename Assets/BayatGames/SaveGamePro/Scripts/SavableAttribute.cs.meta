@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 553d798708cfd8342a5e8970c04c86e1
+timeCreated: 1506511561
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 89198
+  packageName: Save Game Pro - Gold Update
+  packageVersion: 2.9.7
+  assetPath: Assets/BayatGames/SaveGamePro/Scripts/SavableAttribute.cs
+  uploadId: 500060

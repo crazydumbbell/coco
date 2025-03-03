@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 8224b771ff821ad45a84426d23c1c3ce
+timeCreated: 1509369912
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 89198
+  packageName: Save Game Pro - Gold Update
+  packageVersion: 2.9.7
+  assetPath: Assets/BayatGames/SaveGamePro/Scripts/Serialization/Types/SaveGameType_SubEmittersModule.cs
+  uploadId: 500060

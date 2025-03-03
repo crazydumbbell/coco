@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 2a8f491dc4fd1de48b0a04f52ff5d7d6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 89198
+  packageName: Save Game Pro - Gold Update
+  packageVersion: 2.9.7
+  assetPath: Assets/BayatGames/SaveGamePro/Examples/Saving Abstract List/Scripts/SaveAbstractList.cs
+  uploadId: 500060

@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 13fef685f9e42e347ab4d90b3ae181eb
+timeCreated: 1509448828
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 89198
+  packageName: Save Game Pro - Gold Update
+  packageVersion: 2.9.7
+  assetPath: Assets/BayatGames/SaveGamePro/Scripts/Serialization/Types/SaveGameType_EventTrigger.cs
+  uploadId: 500060

@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 819fe3323c733a146b9d790c197fb8f6
+timeCreated: 1509448943
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 89198
+  packageName: Save Game Pro - Gold Update
+  packageVersion: 2.9.7
+  assetPath: Assets/BayatGames/SaveGamePro/Scripts/Serialization/Types/SaveGameType_HorizontalLayoutGroup.cs
+  uploadId: 500060

@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 101bde50f9f538a47b425482b35ef3f6
+timeCreated: 1504756860
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 89198
+  packageName: Save Game Pro - Gold Update
+  packageVersion: 2.9.7
+  assetPath: Assets/BayatGames/SaveGamePro/Scripts/Serialization/Formatters/Json/JsonReader.cs
+  uploadId: 500060

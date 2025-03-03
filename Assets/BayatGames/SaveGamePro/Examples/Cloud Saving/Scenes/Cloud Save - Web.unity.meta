@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ccfe73b1998220c4c8a6ea919b194ef2
+timeCreated: 1508243910
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 89198
+  packageName: Save Game Pro - Gold Update
+  packageVersion: 2.9.7
+  assetPath: Assets/BayatGames/SaveGamePro/Examples/Cloud Saving/Scenes/Cloud Save
+    - Web.unity
+  uploadId: 500060

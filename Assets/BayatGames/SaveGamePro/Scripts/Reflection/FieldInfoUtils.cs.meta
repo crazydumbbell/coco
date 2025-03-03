@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 8fa15035d1a8ed34c89f307b7e4ce452
+timeCreated: 1518937706
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 89198
+  packageName: Save Game Pro - Gold Update
+  packageVersion: 2.9.7
+  assetPath: Assets/BayatGames/SaveGamePro/Scripts/Reflection/FieldInfoUtils.cs
+  uploadId: 500060

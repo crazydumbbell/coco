@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 78d821ec31180a04090551cfa8129dfe
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 89198
+  packageName: Save Game Pro - Gold Update
+  packageVersion: 2.9.7
+  assetPath: Assets/BayatGames/SaveGamePro/Scripts/Serialization/Formatters/BinaryV2/BinaryObjectReaderV2.cs
+  uploadId: 500060

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 1e81251ddb09178438de64e57d4f4822
+timeCreated: 1509188100
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 89198
+  packageName: Save Game Pro - Gold Update
+  packageVersion: 2.9.7
+  assetPath: Assets/BayatGames/SaveGamePro/PlayMaker/Examples/Saving Simple Data/Scenes/Save
+    Simple Data.unity
+  uploadId: 500060

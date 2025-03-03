@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 69aea0fe727fbd14c82272696c66f820
+timeCreated: 1507029806
+licenseType: Store
+TextScriptImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 89198
+  packageName: Save Game Pro - Gold Update
+  packageVersion: 2.9.7
+  assetPath: Assets/BayatGames/SaveGamePro/Editor/Resources/SaveGameTypeManagerTemplate.cs.txt
+  uploadId: 500060

@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: f72085191ccfe194386e2f01adef15f4
+timeCreated: 1509369916
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 89198
+  packageName: Save Game Pro - Gold Update
+  packageVersion: 2.9.7
+  assetPath: Assets/BayatGames/SaveGamePro/Scripts/Serialization/Types/SaveGameType_TextureSheetAnimationModule.cs
+  uploadId: 500060

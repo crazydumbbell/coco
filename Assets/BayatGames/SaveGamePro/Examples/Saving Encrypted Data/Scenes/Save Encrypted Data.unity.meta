@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 66607bce9b0ca0246bb143e6054b3238
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 89198
+  packageName: Save Game Pro - Gold Update
+  packageVersion: 2.9.7
+  assetPath: Assets/BayatGames/SaveGamePro/Examples/Saving Encrypted Data/Scenes/Save
+    Encrypted Data.unity
+  uploadId: 500060

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: bebf66d6f62bbf14ca22c5218f747d9c
+timeCreated: 1509009339
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 89198
+  packageName: Save Game Pro - Gold Update
+  packageVersion: 2.9.7
+  assetPath: Assets/BayatGames/SaveGamePro/PlayMaker/Examples/Cloud Saving/Scenes/PlayMaker
+    - Cloud Save - Web.unity
+  uploadId: 500060

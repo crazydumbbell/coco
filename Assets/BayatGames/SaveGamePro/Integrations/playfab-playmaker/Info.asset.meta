@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 44afea4e1541f034280d7f7eac8e73aa
+timeCreated: 1528358526
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 89198
+  packageName: Save Game Pro - Gold Update
+  packageVersion: 2.9.7
+  assetPath: Assets/BayatGames/SaveGamePro/Integrations/playfab-playmaker/Info.asset
+  uploadId: 500060

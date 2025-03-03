@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: a88ae1bf23eee4745ae53d583561c640
+timeCreated: 1528358526
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 89198
+  packageName: Save Game Pro - Gold Update
+  packageVersion: 2.9.7
+  assetPath: Assets/BayatGames/SaveGamePro/Integrations/playfab/Info.asset
+  uploadId: 500060

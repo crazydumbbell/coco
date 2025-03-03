@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 3cf3b785e906e184d87858a3844c5399
+timeCreated: 1508491163
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 89198
+  packageName: Save Game Pro - Gold Update
+  packageVersion: 2.9.7
+  assetPath: Assets/BayatGames/SaveGamePro/Scripts/Extensions/TransformExtensions.cs
+  uploadId: 500060
